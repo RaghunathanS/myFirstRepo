@@ -6,3 +6,7 @@ This is my first New File in Git.
 4: Gradle.
 
 End of Technical Requirment
+
+Testing Software
+1: Junit
+2: Jasmine
