@@ -2,3 +2,7 @@ This is my first New File in Git.
 
 1:Program Java
 2: Program Angular
+3: Rest
+4: Gradle.
+
+End of Technical Requirment
